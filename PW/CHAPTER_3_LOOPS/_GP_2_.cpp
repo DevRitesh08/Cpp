@@ -1,21 +1,23 @@
-// gp --> 1,2,4,8,16,32,64........
+// gp --> 3,12,48,........
 
 #include<iostream>
 using namespace std;
 int main()
 {
-    int x;
+    int n;
     cout << "Enter the number of terms to print of the above GP : ";
-    cin >> x ;
+    cin >> n ;
     
     cout<<"N terms of GP are : " ;
-    int count = 1 ;
-    for(int i = 1 ; i <= x ; i ++ , count += 2)
+    int a = 3;
+    for(int i = 1 ; i <= n ; i ++ )
     {
-        cout << count << "\t" ;    
-    }   
+        cout << a << "  "; 
+        a = a * 4 ;
+    }
 
     return 0;
-
 }
+
+
 

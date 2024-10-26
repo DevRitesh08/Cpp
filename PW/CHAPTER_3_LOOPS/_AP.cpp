@@ -17,7 +17,7 @@ int main()
 
     // to find nth term of given ap :
     int n , nth , d = 2 , a = 1;
-    cout << "\nEnter the nth term to find : ";
+    cout << "\nEnter the nth of term to find : ";
     cin >> n ;
 
     nth = a + (n - 1)*d ;

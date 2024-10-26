@@ -4,18 +4,20 @@
 using namespace std;
 int main()
 {
-    int x;
+    int n;
     cout << "Enter the number of terms to print of the above GP : ";
-    cin >> x ;
+    cin >> n ;
     
     cout<<"N terms of GP are : " ;
-    int count = 1 ;
-    for(int i = 1 ; i <= x ; i ++ , count += 2)
+    int a = 1;
+    for(int i = 1 ; i <= n ; i ++ )
     {
-        cout << count << "\t" ;    
-    }   
+        cout << a << "  "; 
+        a = a * 2 ;
+    }
 
     return 0;
-
 }
+
+
 
