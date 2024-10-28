@@ -5,7 +5,7 @@ int main()
     int p,q;
     char ch ;
     ch ='y';
-    
+      
     while(ch == 'y')
     {
 

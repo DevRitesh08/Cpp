@@ -13,6 +13,6 @@ int main()
     else
     {
         n = - n ;
-         cout<<"the absolute value is : "<< n ;
+         cout<<"the absolute value is : "<< n ; // this will change the value of n
     }
 }
