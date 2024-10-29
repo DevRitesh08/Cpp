@@ -1,11 +1,17 @@
+// enter number of rows (only odd) : 5
+//  *           * 
+//     *     *    
+//        *       
+//     *     *    
+//  *           * 
+
 #include<iostream>
 using namespace std ;
 int main()
 {
     int r,c ;
     cout<<"enter number of rows (only odd) : ";
-    cin >> r ;  
-     
+    cin >> r ;       
    
     for( int i = 1 ; i <= r ; i++)
     {

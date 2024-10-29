@@ -1,5 +1,13 @@
-// // type 1
-// // FOR STARS :-->
+// type 1
+// FOR STARS :-->
+
+// enter number of rows : 5
+// enter number of columns : 5
+// *  *  *  *  *  
+// *  *  *  *  *  
+// *  *  *  *  *  
+// *  *  *  *  *
+// *  *  *  *  *
 
 #include<iostream>
 using namespace std ;
@@ -116,7 +124,7 @@ int main()
 //         char ch = 'A'; // as  every row starts with A 
 //         for( int j = 1 ; j <= c ; j++)
 //         {
-//             cout<<ch << "  " ; 
+//             cout<<ch << "  " ; // or (char)(j + 64)    
 //             ch ++ ;
 //         }
 //         cout<<"\n";
@@ -153,7 +161,7 @@ int main()
 //     {
 //         for( int j = 1 ; j <= c ; j++)
 //         {
-//             cout<<ch << "  " ; 
+//             cout<<ch << "  " ; // or (char)(j + 64)
 //             ch ++ ;
 //         }
 //         cout<<"\n";

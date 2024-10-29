@@ -1,3 +1,10 @@
+// enter number of rows : 4
+// enter number of columns : 6
+// * * * * * * 
+// *         * 
+// *         * 
+// * * * * * * 
+
 #include<iostream>
 using namespace std ;
 int main()
