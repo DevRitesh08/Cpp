@@ -7,7 +7,7 @@ int main()
    int count = 0 ; 
    for(int i = 0 ; i  < n ; i++)
    {
-      if( s[i]== 'a' ||  s[i]== 'e' ||  s[i]== 'i' ||  s[i]== 'o' ||  s[i]== 'u' )
+      if( s[i]== 'a' ||  s[i]== 'e' ||  s[i]== 'i' ||  s[i]== 'o' ||  s[i]== 'u' ) // for string of small case . 
         count++;
    }
    cout<<"vowels are : "<<count;
