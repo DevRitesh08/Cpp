@@ -1,5 +1,29 @@
 # **BASICS**
 
+- 1 byte is equal to 8 bit . 0ne bit can store either 0 or  1 .
+
+![alt text](image-9.png)
+
+- default is **signed** .
+
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+![alt text](image-8.png)
+
+![alt text](image-7.png)
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
