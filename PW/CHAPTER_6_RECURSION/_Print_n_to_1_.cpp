@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int print(int x)
+int print(int x) //if type of function is not declared then by default it will be int ! .
 {
     if(x == 0) // base case to terminate recursive calls
         return 0;
