@@ -2,7 +2,7 @@
 using namespace std ;
 int main()
 {
-    int arr[][5] = {1,2,3,4,54,32,76,256,1,54};
+    int arr[][5] = {1,2,3,4,54,321,76,256,1,54};
     int mx = arr[0][0];
 
     for(int i = 0 ; i<2 ; i++)
