@@ -1,0 +1,1 @@
+#define fav_no 8
